@@ -4,11 +4,11 @@ Un exemple responsive à parti de l'exemple Esri [Attribute editing - mobile](ht
 
 [Voir en ligne](http://tsamaya.github.io/sig2015-incidents/)
 
-Cette application a été présenté à [SIG2015](http://sig2015.esrifrance.fr) la Conférence Francophone Esri pour l'atelier [talking code: Comment contribuer aux travaux de la communauté des développeurs Esri sur Github ?](http://sig2015.esrifrance.fr/Talking-Code.aspx) de Fabrice Grataloup et Arnaud Ferrand.
+Cette application a été présentée à [SIG2015](http://sig2015.esrifrance.fr) la Conférence Francophone Esri pour l'atelier [talking code: Comment contribuer aux travaux de la communauté des développeurs Esri sur Github ?](http://sig2015.esrifrance.fr/Talking-Code.aspx) de Fabrice Grataloup et Arnaud Ferrand.
 
-Cette application a d'abord été développée pour la présentation [Bootstrap: Taking Your Mapping UI and UX to the Next Level](http://video.esri.com/watch/4369/bootstrap-taking-your-mapping-ui-and-ux-to-the-next-level) de @alaframboise et @tomwayson lors du [Developer Summit ESRI 2015](http://proceedings.esri.com/library/userconf/devsummit15/).
+Cette application a d'abord été développée pour la présentation [Bootstrap: Taking Your Mapping UI and UX to the Next Level](http://video.esri.com/watch/4369/bootstrap-taking-your-mapping-ui-and-ux-to-the-next-level) d'@alaframboise et @tomwayson lors du [Developer Summit ESRI 2015](http://proceedings.esri.com/library/userconf/devsummit15/).
 
-Cette appliction est un fork de [Dojo Bootstrap Map JS](//github.com/Esri/dojo-bootstrap-map-js), qui est un template d'appliction configurableconstruit avec [Bootstrap Map](//github.com/Esri/bootstrap-map-js) et [Dojo Bootstrap](//github.com/xsokev/Dojo-Bootstrap) pour créer des applications cartographique responsive utilisant les composants [Bootstrap](//getbootstrap.com) sans la surcharge de la couche jQuery.
+Cette appliction est un fork de [Dojo Bootstrap Map JS](//github.com/Esri/dojo-bootstrap-map-js), qui est un template d'applictions configurable construit avec [Bootstrap Map](//github.com/Esri/bootstrap-map-js) et [Dojo Bootstrap](//github.com/xsokev/Dojo-Bootstrap) pour créer des applications cartographiques responsives utilisant les composants [Bootstrap](//getbootstrap.com) sans la surcharge de la couche jQuery.
 
 ## Ressources
 
