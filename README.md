@@ -2,7 +2,7 @@
 
 Un exemple responsive à parti de l'exemple Esri [Attribute editing - mobile](https://developers.arcgis.com/javascript/jssamples/mobile_citizenrequest.html) de l'[ArcGIS API for JavaScript](//js.arcgis.com).
 
-[Voir en ligne](http://tsamaya.github.io/sig2015-incidents/)
+Voir l'application [en ligne](http://tsamaya.github.io/sig2015-incidents/).
 
 Cette application a été présentée à [SIG2015](http://sig2015.esrifrance.fr) la Conférence Francophone Esri pour l'atelier [talking code: Comment contribuer aux travaux de la communauté des développeurs Esri sur Github ?](http://sig2015.esrifrance.fr/Talking-Code.aspx) de Fabrice Grataloup et Arnaud Ferrand.
 
